@@ -1,5 +1,11 @@
-# Who are you?
+## Who are you?
 I'm sejinjin
+
+## Detail...
+
++ 🧑‍🎓 I'm Student
++ 🇰🇷 I'm living in Republic of Korea
++ ✉️ My email : contact@sejinjin.me
 <!--
 **sejin0104/sejin0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
