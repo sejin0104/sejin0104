@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Who are you?
+I'm sejinjin
 <!--
 **sejin0104/sejin0104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
