@@ -1,5 +1,11 @@
 ## Who are you?
-I'm sejinjin
++ 😀 I'm sejinjin.
++ 🏫 I'm Junior Developer
+
+## I Like...
+
++ 👾 Video Games!(Minecraft, Valorant)
++ 🧑‍💻 Making Web!
 
 ## Detail...
 
