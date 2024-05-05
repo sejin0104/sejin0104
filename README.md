@@ -4,7 +4,7 @@
 
 ## I Like...
 
-+ 👾 Video Games!(Minecraft, Valorant)
++ 👾 PLaying Video Games!(Minecraft, Valorant)
 + 🧑‍💻 Making Web!
 
 ## Detail...
