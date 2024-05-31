@@ -14,4 +14,4 @@
 + ✉️ My email : contact@sejinjin.me
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sejin0104)](https://git.io/streak-stats)
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,nodejs,cloudflare,discordjs,firebase,git,js,linux,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,nodejs,cloudflare,discordjs,firebase,git,js,linux,mongodb,py&theme=dark)](https://skillicons.dev)
