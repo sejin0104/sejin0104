@@ -15,7 +15,7 @@
 
 ## Discord
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=sejinjin)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=999625983290265600)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sejin0104)](https://git.io/streak-stats)
 
