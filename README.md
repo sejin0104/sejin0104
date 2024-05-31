@@ -17,6 +17,6 @@
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=999625983290265600)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sejin0104)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sejin0104)](https://git.io/streak-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,nodejs,cloudflare,discordjs,firebase,git,js,linux,mongodb,py&theme=dark&perline=5)](https://skillicons.dev)
